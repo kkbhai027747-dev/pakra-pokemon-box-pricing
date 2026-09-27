@@ -1,0 +1,14 @@
+/config.json
+/data/
+/output/
+/.venv/
+__pycache__/
+*.py[cod]
+*.xlsx
+*.xls
+.env
+.env.*
+*.log
+/logs/
+.DS_Store
+Thumbs.db

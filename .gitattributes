@@ -1,0 +1,5 @@
+# Preserve source and fixture bytes across Windows/macOS/Linux checkouts.
+* -text
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
